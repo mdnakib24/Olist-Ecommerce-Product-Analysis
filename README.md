@@ -51,4 +51,3 @@ Dashboard Preview
 Project Objective
 
 The objective of this project is to analyze e-commerce sales data and build an interactive dashboard to help understand product performance and sales trends.
-C:\Users\Nakibahmad\Downloads project dashboard
